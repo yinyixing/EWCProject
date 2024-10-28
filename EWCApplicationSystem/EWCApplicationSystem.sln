@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWCApplicationSystem", "EWCApplicationSystem.csproj", "{21127433-EF96-4AEF-A56B-CA35BE1B1090}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EWCSoftware", "..\EWCSoftware\EWCSoftware.vdproj", "{B4A45BA0-9763-4BD0-8968-49F06C52122E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWCLibrary", "..\EWCLibrary\EWCLibrary.csproj", "{D740C40A-6E3E-4F1A-BABC-AD6BFB3B6AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21127433-EF96-4AEF-A56B-CA35BE1B1090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21127433-EF96-4AEF-A56B-CA35BE1B1090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21127433-EF96-4AEF-A56B-CA35BE1B1090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21127433-EF96-4AEF-A56B-CA35BE1B1090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A45BA0-9763-4BD0-8968-49F06C52122E}.Debug|Any CPU.ActiveCfg = Debug
+		{B4A45BA0-9763-4BD0-8968-49F06C52122E}.Release|Any CPU.ActiveCfg = Release
+		{D740C40A-6E3E-4F1A-BABC-AD6BFB3B6AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D740C40A-6E3E-4F1A-BABC-AD6BFB3B6AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D740C40A-6E3E-4F1A-BABC-AD6BFB3B6AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D740C40A-6E3E-4F1A-BABC-AD6BFB3B6AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77164FB-19DF-4E35-80C8-26907BD2967A}
+	EndGlobalSection
+EndGlobal
